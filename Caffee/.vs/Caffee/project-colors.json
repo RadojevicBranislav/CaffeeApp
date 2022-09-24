@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6be05b9f-1d5f-4fc8-8005-2bc88726ec4e": {
+      "ProjectGuid": "6be05b9f-1d5f-4fc8-8005-2bc88726ec4e",
+      "DisplayName": "CaffeBusiness",
+      "ColorIndex": 0
+    },
+    "39275e54-ee9c-43cf-a6b3-0f3dfb44bc18": {
+      "ProjectGuid": "39275e54-ee9c-43cf-a6b3-0f3dfb44bc18",
+      "DisplayName": "CaffeeData",
+      "ColorIndex": 1
+    },
+    "35bf8d6d-f134-45c1-af22-5b5f4ed9ffd1": {
+      "ProjectGuid": "35bf8d6d-f134-45c1-af22-5b5f4ed9ffd1",
+      "DisplayName": "Caffee",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

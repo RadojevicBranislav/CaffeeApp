@@ -1,0 +1,76 @@
+1. Tables
+2. Receipts
+3. Bils
+4. Items
+5. Order_Items
+-------------------
+
+CREATE TABLE [dbo].[Tables] (
+    [table_number] INT IDENTITY (1, 1) NOT NULL,
+    [occupied]     BIT NOT NULL,
+    [position_w]   INT NOT NULL,
+    [position_h]   INT NOT NULL,
+    PRIMARY KEY CLUSTERED ([table_number] ASC)
+);
+
+CREATE TABLE [dbo].[Receipts] (
+    [Id]    INT             IDENTITY (1, 1) NOT NULL,
+    [Date]  DATETIME        NOT NULL,
+    [Price] DECIMAL (18, 2) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+CREATE TABLE [dbo].[Order_Items] (
+    [Id]            INT IDENTITY (1, 1) NOT NULL,
+    [Item_quantity] INT NOT NULL,
+    [Item_ID]       INT NOT NULL,
+    [Bill_ID]       INT NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    FOREIGN KEY ([Item_ID]) REFERENCES [dbo].[Items] ([item_code]),
+    FOREIGN KEY ([Bill_ID]) REFERENCES [dbo].[Bills] ([bill_number])
+);
+
+CREATE TABLE [dbo].[Items] (
+    [item_code] INT             IDENTITY (1, 1) NOT NULL,
+    [name]      NVARCHAR (50)   NOT NULL,
+    [price]     DECIMAL (10, 2) NOT NULL,
+    PRIMARY KEY CLUSTERED ([item_code] ASC)
+);
+
+CREATE TABLE [dbo].[Bills] (
+    [bill_number]   INT  IDENTITY (1, 1) NOT NULL,
+    [date_of_issue] DATE NOT NULL,
+    [table_Id]      INT  NOT NULL,
+    PRIMARY KEY CLUSTERED ([bill_number] ASC)
+);
+
+-----------------------------------
+Insert query
+
+SET IDENTITY_INSERT [dbo].[Items] ON
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (1, N'Domaca kafa', CAST(70.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (2, N'Nes kafa', CAST(120.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (3, N'Espresso', CAST(120.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (4, N'Caj', CAST(90.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (5, N'Topla cokolada', CAST(120.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (6, N'Coca Cola', CAST(110.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (7, N'Fanta', CAST(110.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (8, N'Sprite', CAST(110.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (9, N'Schweppes', CAST(140.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (10, N'Cedevita', CAST(90.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (11, N'Negazirani sok', CAST(120.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (12, N'Fuze Tea', CAST(150.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (13, N'Limunada', CAST(140.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (14, N'Cedjena pomorandza', CAST(230.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (15, N'Kisela voda', CAST(60.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (16, N'Rosa', CAST(50.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (17, N'Guarana', CAST(190.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (18, N'Red Bull', CAST(250.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (20, N'Plazma sejk', CAST(230.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (21, N'Zajecarsko pivo', CAST(120.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (22, N'Niksicko pivo', CAST(130.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (23, N'Heiniken', CAST(150.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (24, N'Rakija sljiva', CAST(70.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (25, N'Rakija kruska', CAST(70.00 AS Decimal(10, 2)))
+INSERT INTO [dbo].[Items] ([item_code], [name], [price]) VALUES (26, N'Meduska', CAST(120.00 AS Decimal(10, 2)))
+SET IDENTITY_INSERT [dbo].[Items] OFF

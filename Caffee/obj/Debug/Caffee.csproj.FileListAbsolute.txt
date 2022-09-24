@@ -1,0 +1,260 @@
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.config
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.manifest
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.application
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.pdb
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.dll
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Control.Draggable.dll
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.pdb
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.SuggestedBindingRedirects.cache
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.AddItem.resources
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.ChooseWindow.resources
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateOwnerAccount.resources
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateWaiterAccount.resources
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.DeleteItemConfirm.resources
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.EditItem.resources
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MainWindow.resources
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.InfoWarningError.resources
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Login.resources
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MenuSettings.resources
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Properties.Resources.resources
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.TableMenu.resources
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.GenerateResource.cache
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CoreCompileInputs.cache
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe.manifest
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.application
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CopyComplete
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.pdb
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.dll
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.pdb
+C:\Users\pajo\source\repos\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.AssemblyReference.cache
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.config
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.manifest
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.application
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.pdb
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.dll
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.dll
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Control.Draggable.dll
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.pdb
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.pdb
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.AssemblyReference.cache
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.AddItem.resources
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.ChooseWindow.resources
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateOwnerAccount.resources
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateWaiterAccount.resources
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.DeleteItemConfirm.resources
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.EditItem.resources
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MainWindow.resources
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.InfoWarningError.resources
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Login.resources
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MenuSettings.resources
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Properties.Resources.resources
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.TableMenu.resources
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.GenerateResource.cache
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CoreCompileInputs.cache
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe.manifest
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.application
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CopyComplete
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe
+C:\Users\Bane\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.pdb
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.config
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.manifest
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.application
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.pdb
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.dll
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.dll
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Control.Draggable.dll
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.pdb
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.pdb
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.AssemblyReference.cache
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.AddItem.resources
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.ChooseWindow.resources
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateOwnerAccount.resources
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateWaiterAccount.resources
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.DeleteItemConfirm.resources
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.EditItem.resources
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MainWindow.resources
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.InfoWarningError.resources
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Login.resources
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MenuSettings.resources
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Properties.Resources.resources
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.TableMenu.resources
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.GenerateResource.cache
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CoreCompileInputs.cache
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe.manifest
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.application
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CopyComplete
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe
+C:\Users\Bane\Desktop\github\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.pdb
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.config
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.manifest
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.application
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.pdb
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.dll
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.dll
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Control.Draggable.dll
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.pdb
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.pdb
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.AssemblyReference.cache
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.AddItem.resources
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.ChooseWindow.resources
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateOwnerAccount.resources
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateWaiterAccount.resources
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.DeleteItemConfirm.resources
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.EditItem.resources
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MainWindow.resources
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.InfoWarningError.resources
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Login.resources
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MenuSettings.resources
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Properties.Resources.resources
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.TableMenu.resources
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.GenerateResource.cache
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CoreCompileInputs.cache
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe.manifest
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.application
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.pdb
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\SautinSoft.Document.dll
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\SautinSoft.Document.xml
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.config
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.manifest
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.application
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.pdb
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.dll
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.dll
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Control.Draggable.dll
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\SautinSoft.Document.dll
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.pdb
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.pdb
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\SautinSoft.Document.xml
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.AssemblyReference.cache
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.SuggestedBindingRedirects.cache
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.AddItem.resources
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.ChooseWindow.resources
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateOwnerAccount.resources
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateWaiterAccount.resources
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.DeleteItemConfirm.resources
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.EditItem.resources
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MainWindow.resources
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.InfoWarningError.resources
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Login.resources
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MenuSettings.resources
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Properties.Resources.resources
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.TableMenu.resources
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.GenerateResource.cache
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CoreCompileInputs.cache
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe.manifest
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.application
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CopyComplete
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.pdb
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\FluentValidation.dll
+C:\Users\pajo\Desktop\Projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\FluentValidation.xml
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.config
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.manifest
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.application
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.pdb
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Control.Draggable.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\FluentValidation.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\SautinSoft.Document.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.pdb
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.pdb
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\FluentValidation.xml
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\SautinSoft.Document.xml
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.AssemblyReference.cache
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.AddItem.resources
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.ChooseWindow.resources
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateOwnerAccount.resources
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateWaiterAccount.resources
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.DeleteItemConfirm.resources
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.EditItem.resources
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MainWindow.resources
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.InfoWarningError.resources
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Login.resources
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MenuSettings.resources
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Properties.Resources.resources
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.TableMenu.resources
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.GenerateResource.cache
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CoreCompileInputs.cache
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe.manifest
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.application
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CopyComplete
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.pdb
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\FluentValidation.dll
+D:\SI PROJEKAT\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\FluentValidation.xml
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.config
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.manifest
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.application
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.pdb
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.dll
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.dll
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Control.Draggable.dll
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\FluentValidation.dll
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\SautinSoft.Document.dll
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.pdb
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.pdb
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\FluentValidation.xml
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\SautinSoft.Document.xml
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.AssemblyReference.cache
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.AddItem.resources
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.ChooseWindow.resources
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateOwnerAccount.resources
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateWaiterAccount.resources
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.DeleteItemConfirm.resources
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.EditItem.resources
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MainWindow.resources
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.InfoWarningError.resources
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Login.resources
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MenuSettings.resources
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Properties.Resources.resources
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.TableMenu.resources
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.GenerateResource.cache
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe.manifest
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.application
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CopyComplete
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe
+C:\Users\Pavle\Desktop\projekat\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.pdb
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.config
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe.manifest
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.application
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.exe
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Caffee.pdb
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.dll
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.dll
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\Control.Draggable.dll
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\FluentValidation.dll
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\SautinSoft.Document.dll
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeBusiness.pdb
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\CaffeeData.pdb
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\FluentValidation.xml
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\bin\Debug\SautinSoft.Document.xml
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.AssemblyReference.cache
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.AddItem.resources
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.ChooseWindow.resources
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateOwnerAccount.resources
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.CreateWaiterAccount.resources
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.DeleteItemConfirm.resources
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.EditItem.resources
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MainWindow.resources
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.InfoWarningError.resources
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Login.resources
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.MenuSettings.resources
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.Properties.Resources.resources
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.TableMenu.resources
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.GenerateResource.cache
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.csproj.CoreCompileInputs.cache
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe.manifest
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.application
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.exe
+C:\Users\Bane\Desktop\projekat prezentacija\si2021-projekat-si2021-14-caffee\Caffee\obj\Debug\Caffee.pdb

@@ -1,0 +1,16 @@
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\obj\Debug\UserRepositoryTests.csproj.AssemblyReference.cache
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\obj\Debug\UserRepositoryTests.csproj.CoreCompileInputs.cache
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\bin\Debug\UserRepositoryTests.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\bin\Debug\UserRepositoryTests.pdb
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\bin\Debug\CaffeeData.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\bin\Debug\CaffeeData.pdb
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\obj\Debug\UserRepositoryTests.csproj.CopyComplete
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\obj\Debug\UserRepositoryTests.dll
+C:\Users\Bane\Desktop\drazo peder\si2021-projekat-si2021-14-caffee\UserRepositoryTests\obj\Debug\UserRepositoryTests.pdb
